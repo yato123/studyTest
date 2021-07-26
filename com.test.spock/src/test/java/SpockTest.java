@@ -4,7 +4,7 @@ import spock.lang.Specification;
 public class SpockTest extends Specification {
     @Autowired
     UserServiceImpl userService;
-
+//todo 报错的地方
 //    def testGetUser(){
 //
 //    };
